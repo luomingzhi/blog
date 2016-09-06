@@ -8,3 +8,4 @@ http://www.cnblogs.com/likehua/p/3999600.html
 http://blog.csdn.net/mergades/article/details/46662413  
 
 Jenkins安装完成后，会提示没有/usr/share/tomcat7/.jenkins的权限，这时只需要chmod -R 777 /usr/share/tomcat7即可
+Jenkins admin账号的缺省密码在这里/var/lib/jenkins/secrets/initialAdminPassword
