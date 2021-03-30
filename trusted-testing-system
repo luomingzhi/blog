@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:43:11.970Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="H6nnCTvVPkZi3hNW-gMf" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:44:14.685Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="6nDAneT-S1_WK5DUY9P4" version="14.5.3" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1554" dy="917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -78,6 +78,15 @@
         </mxCell>
         <mxCell id="AEZphScGEf-BEKfAGRMC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=275;exitDy=17;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=43.5;entryPerimeter=0;" edge="1" parent="1" source="AEZphScGEf-BEKfAGRMC-8" target="AEZphScGEf-BEKfAGRMC-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-27" value="数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="670" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-28" value="文件系统" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="670" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-29" value="日志引擎" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="670" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
