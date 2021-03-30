@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:52:34.876Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="O3uiJ0-STlGg0UPi-wcH" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:54:31.286Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="C7oSA7qJp2uEgcyiGjAb" version="14.5.3" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
     <mxGraphModel dx="1954" dy="917" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -72,14 +72,40 @@
             <mxPoint x="213" y="238" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-38" value="制品" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AEZphScGEf-BEKfAGRMC-20">
+          <mxGeometry x="0.1919" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AEZphScGEf-BEKfAGRMC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=130;exitDy=43.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=43.5;entryPerimeter=0;" edge="1" parent="1" source="6e0c8c40b5770093-4" target="AEZphScGEf-BEKfAGRMC-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-36" value="单号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AEZphScGEf-BEKfAGRMC-21">
+          <mxGeometry x="-0.0455" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AEZphScGEf-BEKfAGRMC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.318;entryY=0.085;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6e0c8c40b5770093-8" target="AEZphScGEf-BEKfAGRMC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEZphScGEf-BEKfAGRMC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=275;exitDy=17;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=43.5;entryPerimeter=0;" edge="1" parent="1" source="AEZphScGEf-BEKfAGRMC-8" target="AEZphScGEf-BEKfAGRMC-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AEZphScGEf-BEKfAGRMC-39" value="制品" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AEZphScGEf-BEKfAGRMC-25">
+          <mxGeometry x="-0.2913" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.648;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=43.5;entryPerimeter=0;" edge="1" parent="1" source="AEZphScGEf-BEKfAGRMC-8" target="AEZphScGEf-BEKfAGRMC-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="556" y="391" />
+              <mxPoint x="555" y="391" />
+              <mxPoint x="555" y="238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-41" value="测试结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AEZphScGEf-BEKfAGRMC-26">
+          <mxGeometry x="-0.2757" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AEZphScGEf-BEKfAGRMC-27" value="数据库" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="122" y="634" width="60" height="60" as="geometry" />
@@ -93,12 +119,22 @@
         <mxCell id="AEZphScGEf-BEKfAGRMC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="AEZphScGEf-BEKfAGRMC-6" target="AEZphScGEf-BEKfAGRMC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEZphScGEf-BEKfAGRMC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=62.75;entryPerimeter=0;dashed=1;exitX=0;exitY=0;exitDx=130;exitDy=43.5;exitPerimeter=0;" edge="1" parent="1" source="AEZphScGEf-BEKfAGRMC-6" target="AEZphScGEf-BEKfAGRMC-8">
+        <mxCell id="AEZphScGEf-BEKfAGRMC-37" value="文件" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AEZphScGEf-BEKfAGRMC-30">
+          <mxGeometry x="-0.1688" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-31" value="文件" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=62.75;entryPerimeter=0;dashed=1;exitX=0;exitY=0;exitDx=130;exitDy=43.5;exitPerimeter=0;" edge="1" parent="1" source="AEZphScGEf-BEKfAGRMC-6" target="AEZphScGEf-BEKfAGRMC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AEZphScGEf-BEKfAGRMC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=43.5;entryPerimeter=0;dashed=1;exitX=0;exitY=0;exitDx=130;exitDy=43.5;exitPerimeter=0;" edge="1" parent="1" source="6e0c8c40b5770093-8" target="AEZphScGEf-BEKfAGRMC-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="317" y="238" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AEZphScGEf-BEKfAGRMC-40" value="制品" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AEZphScGEf-BEKfAGRMC-32">
+          <mxGeometry x="-0.6301" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
